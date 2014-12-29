@@ -8,6 +8,7 @@
     <string name="no_network">Network is unavailable!</string>
     <string name="error_title">Oops! Sorry!</string>
     <string name="error_message">There was an error getting data from the blog.</string>
+    <string name="action_share">Share</string>
 
     <string-array name="android_names">
         <item>"Alpha (1.0)</item>
